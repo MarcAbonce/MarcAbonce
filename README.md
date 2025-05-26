@@ -1,16 +1,32 @@
-## Hi there 👋
+# About me
 
-<!--
-**MarcAbonce/MarcAbonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account has most of my free open-source contributions.
 
-Here are some ideas to get you started:
+## Main author
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### thumbframes_dl
+
+A little Python library to download thumbnail frames (a.k.a. storyboards) that you see when you hover over a YouTube video's progress bar.
+
+PyPI: https://pypi.org/project/thumbframes-dl/  
+Source code: https://github.com/MarcAbonce/thumbframes_dl
+
+### React Lang Selecta
+
+A silly language selector component that shows random (but still accurate) flags for each given language.
+
+NPM: https://www.npmjs.com/package/react-lang-selecta  
+Source code: https://github.com/MarcAbonce/react-lang-selecta
+
+## Major contributor
+
+### searx
+Privacy-respecting metasearch engine.
+
+Source code: https://github.com/searx/searx
+
+Main contributions:
+ * Improved multilingual support for the queries.
+ * Added the Wikipedia and WolframAlpha infoboxes that appear next to the results.
+ * Added support for sending search queries through Tor.
+ * Many bug fixes and smaller features.
